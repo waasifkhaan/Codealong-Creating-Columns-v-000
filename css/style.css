@@ -73,7 +73,7 @@ figcaption {
 /*style LAYOUT */
 
 * {
-  box-sizing: border-box;
+  -webkibox-sizing: border-box;
   box-sizing: border-box;
   box-sizing: border-box;
 }
